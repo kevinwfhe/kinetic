@@ -8,7 +8,7 @@ var config = {
 }
 
 var options = {
-    logging: false,
+    logging: true,
     trackingTimeSensitivity: 10,
     mouseTrackingElement: '#trackarea',
     debug: true,
@@ -17,7 +17,7 @@ var options = {
     appSecret: 'AtQes9iwhplul+8WuAd9QBENR7I5Ka2x+tZYukzoJNi5lCHd4Ori4DLNcASlNmTtdw==',
     trackingInterval: 60,
     sensorPollingFrequency: 10,
-    packageId: "kevinhe-7755.github.io/kinetic",
+    packageId: "kinetic",
 }
 
 $(document).ready(function () {
