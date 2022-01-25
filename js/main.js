@@ -17,7 +17,7 @@ var options = {
     appSecret: 'AtQes9iwhplul+8WuAd9QBENR7I5Ka2x+tZYukzoJNi5lCHd4Ori4DLNcASlNmTtdw==',
     trackingInterval: 60,
     sensorPollingFrequency: 10,
-    packageId: "/Zighra_Test",
+    packageId: "kevinhe-7755.github.io/Zighra_Test",
 }
 
 $(document).ready(function () {
